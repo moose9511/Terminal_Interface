@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/TerminalInterface.dir/fileStuff.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
