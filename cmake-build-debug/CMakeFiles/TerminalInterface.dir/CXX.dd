@@ -1,7 +1,0 @@
-ninja_dyndep_version = 1.0
-build CMakeFiles/TerminalInterface.dir/main.cpp.obj: dyndep
-
-build CMakeFiles/TerminalInterface.dir/fileStuff.cpp.obj: dyndep
-
-build CMakeFiles/TerminalInterface.dir/Menu.cpp.obj: dyndep
-

@@ -1,3 +1,0 @@
-C:/Users/kalen/CLionProjects/TerminalInterface/cmake-build-debug/CMakeFiles/TerminalInterface.dir
-C:/Users/kalen/CLionProjects/TerminalInterface/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kalen/CLionProjects/TerminalInterface/cmake-build-debug/CMakeFiles/rebuild_cache.dir
